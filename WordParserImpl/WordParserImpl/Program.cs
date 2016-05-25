@@ -11,7 +11,7 @@ namespace WordParserImpl
         static void Main(string[] args)
         {
             Console.WriteLine("example");
-
+            Console.WriteLine("example2");
         }
     }
 }
