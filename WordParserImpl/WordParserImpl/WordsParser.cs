@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Parsers
 {
@@ -211,6 +207,16 @@ namespace Parsers
         {         
             return WordsParser.WordIndex(ref parse, wordIndex + WordsParser.WordLen(ref parse, wordIndex));
         }
+
+
+
+        //public static int WordDetect(ref string parse, int wordPart)
+        //{
+        //    return 0;
+        //}
+
+
+
 
     }
 }
