@@ -133,7 +133,7 @@ namespace Parsers
             }
             return scanoffset + lenrez;
         }
-
+   
         /// <summary>
         /// Даёт длину слова
         /// </summary>
@@ -155,10 +155,6 @@ namespace Parsers
             }
             return lenrez;
         }
-
-
-
-
 
         /// <summary>
         ///  Сравнивает 2 слова
